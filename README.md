@@ -51,7 +51,8 @@ This repository contains a Streamlit application that allows users to ask questi
     GROQ_API_KEY=your_groq_api_key
     GOOGLE_API_KEY=your_google_api_key
     ```
-
+To get Your Groq API Key: https://console.groq.com/keys 
+To get Your Google API Key: https://aistudio.google.com/app/apikey
 
 ## Usage
 
