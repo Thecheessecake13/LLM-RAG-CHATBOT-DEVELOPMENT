@@ -1,3 +1,6 @@
+NAME: ANNU AHLAWAT
+MOBILE: 8448800862
+
 # ASK QUESTION FROM THE DOCUMENT
 
 This repository contains a Streamlit application that allows users to ask questions based on the content of PDF documents. The application leverages the capabilities of various libraries, including LangChain, FAISS, PyPDF2, and Google's Generative AI for embeddings.
